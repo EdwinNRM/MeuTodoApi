@@ -44,19 +44,24 @@ http://localhost:7035
 ## Documentação
 
 ### TodoController
-Controlador para manipulação de tarefas Todo.
+- Controlador para manipulação de tarefas Todo.
+
 
 ### AppDbContext
-Contexto do banco de dados da aplicação.
+- Contexto do banco de dados da aplicação.
+
 
 ### Todo
-Classe que representa uma tarefa.
+- Classe que representa uma tarefa.
+
 
 ### CreateTodoViewModel
-Modelo de visualização para criação de uma nova tarefa.
+- Modelo de visualização para criação de uma nova tarefa.
+
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
+
 
 ## Licença
 Este projeto está licenciado sob a MIT License.
