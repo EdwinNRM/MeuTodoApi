@@ -23,12 +23,12 @@ A aplicação utiliza o banco de dados SQLite para armazenar as tarefas. O arqui
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/meu-todo.git
+git clone https://github.com/EdwinNRM/MeuTodoApi.git
 ```
 
 2. Acesse o diretório do projeto:
 ```bash
-cd meu-todo
+cd MeuTodoApi
 ```
 
 3. Execute a aplicação usando o .NET CLI:
@@ -36,9 +36,9 @@ cd meu-todo
 dotnet run
 ```
 
-4. Acesse a aplicação no navegador:
+4. Acesse a aplicação no seu mensageiro (Postman, Insomnia, ThuderClient):
 ```bash
-http://localhost:5000
+http://localhost:7035
 ```
 
 ## Documentação
