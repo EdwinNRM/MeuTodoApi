@@ -1,0 +1,30 @@
+# Arquivos de compilação
+bin/
+obj/
+
+# Arquivo do banco de dados SQLite
+app.db
+
+# Arquivos gerados pelo Rider
+.idea/
+
+# Outros arquivos específicos do Rider
+[Rr]eSharper*/
+
+# Logs e arquivos temporários
+logs/
+temp/
+
+# Arquivos de configuração do Rider
+*.sln.iml
+*.suo
+*.user
+*.userprefs
+*.sln.DotSettings
+
+# Cache de pacotes NuGet
+packages/
+
+# Arquivos de publicação e build
+Publish/
+build/
